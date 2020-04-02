@@ -1,6 +1,3 @@
----
-youtubeId: BQHRLMUAUZk
----
 
 ## Learning Russian in Quarantine 
 
@@ -22,7 +19,17 @@ so here I am, Going to learn Russian from Катя.
 
 **видео**
 
-{% include youtubePlayer.html id=page.youtubeId %}
+[link](https://youtu.be/BQHRLMUAUZk)
+
+{% youtube siskYo3PozI %}
+
+#### contents :
+
+- Alphabets
+
+- fonetics
+
+
 
 ### Markdown
 
