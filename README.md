@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+---
+youtubeId: BQHRLMUAUZk
+---
 
-You can use the [editor on GitHub](https://github.com/1rooh/1rooh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Learning Russian in Quarantine 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Resources
+
+- [balalaika. rus marathon](https://www.instagram.com/balalaika.rus/)
+- [the book let's go book beginner](http://www.zlat.spb.ru/catalog5_1_605.html)
+- Duolingo application
+
+
+
+### plan
+
+I have already started learning but the marathon thing gave me the incentive to have a learning plan.
+so here I am, Going to learn Russian from Катя.
+
+
+### Первый День
+
+**видео**
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Markdown
 
